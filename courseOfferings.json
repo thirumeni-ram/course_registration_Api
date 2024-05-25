@@ -1,0 +1,11 @@
+[
+  {
+    "courseId": "OFFERING-ADVANCED PYTHON-ALICE JOHNSON",
+    "courseName": "Advanced Python",
+    "instructorName": "Alice Johnson",
+    "startDate": "15092023",
+    "minEmployees": 5,
+    "maxEmployees": 20,
+    "registrations": []
+  }
+]
