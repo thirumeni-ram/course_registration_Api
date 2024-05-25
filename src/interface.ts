@@ -15,3 +15,5 @@ export interface Registration {
   email: string;
   status: string;
 }
+
+//CourseRegistration_Api pKDujdftgUSbXqJ5
